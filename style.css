@@ -1,7 +1,9 @@
 h1 {
-  color: red;
+  color: white;
   background-color: black;
+  text-align: center;
 }
 img {
-  widows: 100%;
+  width: 100%;
+  border: 5px solid black;
 }
